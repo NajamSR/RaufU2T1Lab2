@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ea81190-733b-466b-9b3a-08ad2f59db09" name="Changes" comment="added some files">
+      <change afterPath="$PROJECT_DIR$/src/ChatBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChatBotRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RectangleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RectangleRunner.java" afterDir="false" />
     </list>
@@ -41,7 +43,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RectangleRunner">
+  <component name="RunManager" selected="Application.ChatBotRunner">
+    <configuration name="ChatBotRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChatBotRunner" />
+      <module name="RaufU2T1Lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CircleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircleRunner" />
       <module name="RaufU2T1Lab2" />
@@ -58,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChatBotRunner" />
         <item itemvalue="Application.RectangleRunner" />
         <item itemvalue="Application.CircleRunner" />
       </list>
